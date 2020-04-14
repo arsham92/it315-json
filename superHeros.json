@@ -1,0 +1,50 @@
+{
+  "SuperHeroes": [
+    {
+      "Identity": "Bruce Wayne",
+      "Image": "batman.png",
+      "Logo": "bat.png",
+      "Name": "Batman",
+      "Sound": "bat.mp3",
+      "SuperHeroID": 1,
+      "Website": "http://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "Identity": "Clark Kent",
+      "Image": "superman.png",
+      "Logo": "super.png",
+      "Name": "Superman",
+      "Sound": "super.mp3",
+      "SuperHeroID": 2,
+      "Website": "http://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "Identity": "Peter Parker",
+      "Image": "spiderman.png",
+      "Logo": "spider.png",
+      "Name": "Spiderman",
+      "Sound": "spider.mp3",
+      "SuperHeroID": 3,
+      "Website": "http://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "Identity": "Bruce Banner",
+      "Image": "hulk.png",
+      "Logo": "hulkLogo.png",
+      "Name": "Hulk",
+      "Sound": "hulk.mp3",
+      "SuperHeroID": 4,
+      "Website": "http://en.wikipedia.org/wiki/Hulk_%28comics%29"
+    },
+    {
+      "Identity": "Tony Stark",
+      "Image": "ironman.png",
+      "Logo": "iron.png",
+      "Name": "Ironman",
+      "Sound": "iron.mp3",
+      "SuperHeroID": 5,
+      "Website": "http://en.wikipedia.org/wiki/Iron_Man",
+      "Status": "OK"
+    }
+  ]
+}

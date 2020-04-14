@@ -1,0 +1,55 @@
+{
+  "Artists": [
+    {
+      "ArtistAge": 22,
+      "ArtistAlbumCount": 1,
+      "ArtistBorn": "London, United Kingdom",
+      "ArtistGenre": "Pop/R&B/Soul",
+      "ArtistID": 1,
+      "ArtistImageURL": "smith.png",
+      "ArtistName": "Sam Smith",
+      "ArtistURL": "www.samsmithworld.com"
+    },
+    {
+      "ArtistAge": 23,
+      "ArtistAlbumCount": 2,
+      "ArtistBorn": "Hebden Bridge, United Kingdom",
+      "ArtistGenre": "Pop/R&B/Soul",
+      "ArtistID": 2,
+      "ArtistImageURL": "sheeran.png",
+      "ArtistName": "Ed Sheeran",
+      "ArtistURL": "www.edsheeran.com"
+    },
+    {
+      "ArtistAge": 24,
+      "ArtistAlbumCount": 10,
+      "ArtistBorn": "Reading, Pennsylvania",
+      "ArtistGenre": "Pop",
+      "ArtistID": 3,
+      "ArtistImageURL": "swift.png",
+      "ArtistName": "Taylor Swift",
+      "ArtistURL": "www.taylorswift.com"
+    },
+    {
+      "ArtistAge": 66,
+      "ArtistAlbumCount": 12,
+      "ArtistBorn": "Phoenix, Arizona",
+      "ArtistGenre": "Rock",
+      "ArtistID": 4,
+      "ArtistImageURL": "nicks.png",
+      "ArtistName": "Stevie Nicks",
+      "ArtistURL": "www.stevienicksofficial.com”"
+    },
+    {
+      "ArtistAge": 42,
+      "ArtistAlbumCount": 8,
+      "ArtistBorn": "St. Joseph, Missouri",
+      "ArtistGenre": "Hip Hop",
+      "ArtistID": 5,
+      "ArtistImageURL": "eminem.png",
+      "ArtistName": "Eminem",
+      "ArtistURL": "www.eminim.com"
+    }
+  ],
+  "Status": "OK"
+}
